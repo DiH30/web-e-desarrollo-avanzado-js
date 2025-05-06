@@ -1,0 +1,42 @@
+/* Estilos generales para la página */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Estilos para el botón */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 12px; /* Redondea las esquinas del botón */
+    border: 1px solid #ccc; /* Asegura que el borde del botón sea visible */
+    background-color:#FF77FF  /* Color de fondo del botón */
+}
+/* Estilos para el botón cuando el mouse pasa sobre él */
+button:hover {
+    background-color: #FFC0CB; /* Cambiar el color cuando el mouse pasa sobre el botón */
+}
+
+/* Estilos para la lista de pedidos */
+#orderList {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Estilos para cada elemento de la lista */
+li {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+}
+
+/* Estilos para los pedidos en proceso */
+.en-proceso {
+    color: orange;
+}
+
+/* Estilos para los pedidos completados */
+.completado {
+    color: green;
+}
