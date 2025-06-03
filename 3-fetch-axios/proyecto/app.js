@@ -128,8 +128,7 @@ function renderCharacters(characters) {
   });
 }
 //Salida en la consola del navegador
-/*
-Live reload enabled.
+/*Live reload enabled.
 Botón Fetch presionado 
 Personajes obtenidos con Fetch: 
 👤 Rick Sanchez - Alive - Human 
@@ -151,10 +150,8 @@ Personajes obtenidos con Fetch:
 👤 Annie - Alive - Human 
 👤 Antenna Morty - Alive - Human 
 👤 Antenna Rick - unknown - Human 
-👤 Ants in my Eyes Johnson - unknown - Human 
- */
-/*
-Botón Axios presionado 
+👤 Ants in my Eyes Johnson - unknown - Human*/
+/* Botón Axios presionado 
 Personajes obtenidos con Axios: 
 👤 Rick Sanchez - Alive - Human 
 👤 Morty Smith - Alive - Human 
