@@ -1,7 +1,6 @@
 // Proyecto Promesas y Async/Await
 
-/*promesas y async/await, son fundamentales para cualquier programador JavaScript moderno.
- El dominio de estas herramientas facilitará la creación de aplicaciones web más complejas y
+/*promesas y async/await, son fundamentales para cualquier programador JavaScript moderno. El dominio de estas herramientas facilitará la creación de aplicaciones web más complejas y
 eficientes, al mismo tiempo que mejorará la legibilidad y la mantenibilidad del código.*/
 //Objetivo
 /*Construir un sistema de reservas utilizando **promesas** y **`async/await`**, 
@@ -76,8 +75,8 @@ hacerReserva("Juan Pérez", 3);  // Intenta hacer una reserva para 3 personas
 setTimeout(() => hacerReserva("Diana Amillano", 2), 4000);  
 setTimeout(() => hacerReserva("Uziel Rámirez", 1), 9000); // Caso con error por falta de mesas
 
-//Salida.
-/*Reserva solicitada por Juan Pérez para 3 mesa(s).
+//Salida
+/* Reserva solicitada por Juan Pérez para 3 mesa(s).
 Verificando disponibilidad de mesas...
 Mesas disponibles.
 Enviando confirmación de reserva...
